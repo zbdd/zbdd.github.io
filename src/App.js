@@ -8,7 +8,7 @@ function App() {
         <img src={bomb} className="App-logo" alt="bomb" />
         <a
           className="App-link"
-          href="https://vgw.co"
+          href="https://vgw.co/careers"
           target="_blank"
           rel="noopener noreferrer"
         >
