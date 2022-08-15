@@ -22,4 +22,4 @@ jobs:
           target_branch: deployed-application
           build_dir: build
           env:
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
